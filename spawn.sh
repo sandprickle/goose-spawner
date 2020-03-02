@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#spawn goose every 5 seconds, up to 20 geese.
-
+# Spawn goose every 5 seconds, up to 10 geese.
+# Modify as your heart leads.
 x=1
 
 while [ $x -le 10 ]
@@ -13,4 +13,5 @@ do
 				sleep 5
 done
 
-## Should clean up afterwards.
+
+# (Hint: You have to kill the geese yourself.)
