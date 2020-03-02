@@ -16,7 +16,7 @@ Please do not use it. Thanks.
 * cleanup.sh removes the goose files.
 * Be prepared for things to suck. Especially if you have *attack at random* turned on. You have been warned.
 
-**WARNING**
+**WARNING:**
 *You will have to figure out a way to stop the geese yourself.*
 *cleanup.sh simply removes the n.goose files. It does not kill the processes. God be with you.*
 (I welcome a pull request for this feature. I need to go to bed right now.)
